@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year undergraduate studying mathematics and computer science at Caltech where I am fortunate to be advised by [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) and [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/). I am interested in developing trustworthy and reliable machine learning. 
+I am a final-year undergraduate studying mathematics and computer science at Caltech where I am fortunate to be advised by [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) and [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/). 
+
+I am interested in trustworthy and reliable machine learning through greater alignment with human values and stronger adversarial robustness. 
 
 See [here](https://drive.google.com/file/d/17jkbEmK-c69u8qqnYDzJNbo917Qwn6gg/view?usp=sharing) for my CV. Feel free to email me at aypan [at] caltech [dot] edu.
 
@@ -31,6 +33,8 @@ Research
 
 Teaching
 ======
+I enjoy teaching and am committed to promoting access to math and CS at all levels.
+
 [Caltech Y RISE](https://www.caltechy.org/rise-tutor)  
 Volunteer Tutor: 2018 - Present
 
