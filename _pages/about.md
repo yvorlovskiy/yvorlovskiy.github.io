@@ -31,7 +31,11 @@ Research
 
 Teaching
 ======
+[Caltech Y RISE](https://www.caltechy.org/rise-tutor)
+Volunteer Tutor: 2018 - Present
+
 CS 21: *Complexity Theory*
+Teaching Assistant: Winter 2020
 
 Projects
 ======
