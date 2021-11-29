@@ -14,10 +14,8 @@ See [here](https://drive.google.com/file/d/17jkbEmK-c69u8qqnYDzJNbo917Qwn6gg/vie
 
 Research
 ======
-<img align="right" src="https://aypan17.github.io/images/rewardhacking.jpg"/>
-[The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models](https://openreview.net/pdf?id=JYtwGwIL7ye)
-
-**Alexander Pan**, Kush Bhatia, Jacob Steinhardt
-
+<img align="right" src="https://aypan17.github.io/images/rewardhacking.png"/>
+[The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models](https://openreview.net/pdf?id=JYtwGwIL7ye)  
+**Alexander Pan**, Kush Bhatia, Jacob Steinhardt  
 NeurIPS Deep RL Workshop 2021. Under submission at ICLR 2022.
 
