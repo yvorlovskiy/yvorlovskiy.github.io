@@ -24,17 +24,17 @@ Research
 *ICML RL4RL Workshop 2021. Under submission at PSCC 2022.*    
 [pdf](https://arxiv.org/abs/2110.08956) / [code](https://github.com/aypan17/robust_pn)
 
-[Opinion Formation on Networks](https://aypan17.github.io/files/opinion2019.pdf)
+[Opinion Formation on Networks](https://aypan17.github.io/files/opinion2019.pdf)  
 **Alexander Pan**, Heather Z. Brooks, Franca Hoffmann, Mason A. Porter  
 *Technical Report.*    
 [pdf](https://aypan17.github.io/files/opinion2019.pdf)  
 
 Teaching
 ======
-[Caltech Y RISE](https://www.caltechy.org/rise-tutor)
+[Caltech Y RISE](https://www.caltechy.org/rise-tutor)  
 Volunteer Tutor: 2018 - Present
 
-CS 21: *Complexity Theory*
+CS 21: *Complexity Theory*  
 Teaching Assistant: Winter 2020
 
 Projects
