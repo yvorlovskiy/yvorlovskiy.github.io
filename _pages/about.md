@@ -14,7 +14,27 @@ See [here](https://drive.google.com/file/d/17jkbEmK-c69u8qqnYDzJNbo917Qwn6gg/vie
 
 Research
 ======
-[The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models](https://openreview.net/pdf?id=JYtwGwIL7ye)  
+[The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models](https://openreview.net/forum?id=JYtwGwIL7ye)  
 **Alexander Pan**, Kush Bhatia, Jacob Steinhardt  
-NeurIPS Deep RL Workshop 2021. Under submission at ICLR 2022.
+*NeurIPS Deep RL Workshop 2021. Under submission at ICLR 2022.*
+[pdf](https://openreview.net/pdf?id=JYtwGwIL7ye) / [code](https://github.com/aypan17/value_learning)
+
+[Improving Robustness of Reinforcement Learning for Power System Control with Adversarial Training](https://arxiv.org/abs/2110.08956)  
+**Alexander Pan**, Yongkyun (Daniel) Lee, Huan Zhang, Yize Chen, Yuanyuan Shi  
+*ICML RL4RL Workshop 2021. Under submission at PSCC 2022.*
+[pdf](https://arxiv.org/abs/2110.08956) / [code](https://github.com/aypan17/robust_pn)
+
+[Opinion Formation on Networks]
+**Alexander Pan**, Heather Z. Brooks, Franca Hoffmann, Mason A. Porter
+*Technical Report.*
+[pdf](https://aypan17.github.io/files/opinion2019.pdf)
+
+Teaching
+======
+
+
+Projects
+======
+
+
 
