@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a first-year CS PhD student at Berkeley, where I am fortunate to be advised by [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/). I am interested in developing robust and trustworthy ML systems.
+Hello! I am a first-year CS PhD student at Berkeley, where I am fortunate to be advised by [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/) and grateful to be supported by a [FLI PhD fellowship](https://futureoflife.org/about-us/our-people/fellowship-winners-2022/). I am interested in aligning adaptive ML systems.
 
 I studied mathematics and computer science at Caltech, where I worked with [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) and [Yuanyuan Shi](https://yyshi.eng.ucsd.edu/).  
 
 See [here](https://drive.google.com/file/d/17jkbEmK-c69u8qqnYDzJNbo917Qwn6gg/view?usp=sharing) for my CV. 
 
-Outside of work I enjoy baking, [reading](https://www.goodreads.com/user/show/71787702-alex-pan), and walking/hiking.
+Outside of work I enjoy baking, [reading](https://www.goodreads.com/user/show/71787702-alex-pan), and fashion.
 
 Publications
 ======
@@ -42,7 +42,7 @@ Teaching Assistant: Winter 2020
 
 Projects
 ======
-I had the pleasure of working on some interesting hackathon projects with [Yongkyun (Daniel) Lee](https://noninertialframe.com/about) and [Evan Yeh](https://www.linkedin.com/in/evan-yeh/).
+I was lucky to work on some interesting hackathon projects with [Yongkyun (Daniel) Lee](https://noninertialframe.com/about) and [Evan Yeh](https://www.linkedin.com/in/evan-yeh/).
 
 [Pagechat](https://devpost.com/software/pagechat)  
 *Best social network hack - Stanford Hackathon 2021*  
@@ -55,4 +55,4 @@ I had the pleasure of working on some interesting hackathon projects with [Yongk
 
 Contact
 ======
-Feel free to email me at [aypan (dot) 17 (at) gmail (dot) com](mailto:aypan.17@gmail.com).
+Feel free to email me at [aypan (dot) 17 (at) berkeley (dot) edu](mailto:aypan.17@berkeley.edu).
