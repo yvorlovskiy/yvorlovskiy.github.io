@@ -16,19 +16,19 @@ See [here](https://drive.google.com/file/d/17jkbEmK-c69u8qqnYDzJNbo917Qwn6gg/vie
 
 Publications
 ======
-[Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark](https://arxiv.org/abs/2304.03279)
-Alexander Pan\*, Chan Jun Shern\*, Andy Zou\*, Nathaniel Li, Steven Basart, Thomas Woodside, Jonathan Ng, Hanlin Zhang, Scott Emmons, Dan Hendrycks
-Preprint 2023
+[Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark](https://arxiv.org/abs/2304.03279) \
+Alexander Pan\*, Chan Jun Shern\*, Andy Zou\*, Nathaniel Li, Steven Basart, Thomas Woodside, Jonathan Ng, Hanlin Zhang, Scott Emmons, Dan Hendrycks \
+Preprint 2023 \
 [pdf](https://arxiv.org/pdf/2304.03279.pdf) / [code](https://github.com/aypan17/machiavelli) / [website](https://aypan17.github.io/machiavelli/)
 
-[The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models](https://arxiv.org/abs/2201.03544)  
-Alexander Pan, Kush Bhatia, Jacob Steinhardt  
-ICLR 2022
+[The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models](https://arxiv.org/abs/2201.03544)  \
+Alexander Pan, Kush Bhatia, Jacob Steinhardt  \
+ICLR 2022 \
 [pdf](https://arxiv.org/abs/2201.03544) / [code](https://github.com/aypan17/reward-misspecification)
 
-[Improving Robustness of RL for Power System Control with Adversarial Training](https://arxiv.org/abs/2110.08956)  
-Alexander Pan, Yongkyun (Daniel) Lee, Huan Zhang, Yize Chen, Yuanyuan Shi    
-ICML RL4RL Workshop 2021   
+[Improving Robustness of RL for Power System Control with Adversarial Training](https://arxiv.org/abs/2110.08956)  \
+Alexander Pan, Yongkyun (Daniel) Lee, Huan Zhang, Yize Chen, Yuanyuan Shi    \
+ICML RL4RL Workshop 2021   \
 [pdf](https://arxiv.org/abs/2110.08956) / [code](https://github.com/aypan17/robust_pn)
 
 <!---
