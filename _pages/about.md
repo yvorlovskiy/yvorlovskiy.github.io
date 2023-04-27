@@ -18,7 +18,7 @@ Publications
 ======
 [Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark](https://arxiv.org/abs/2304.03279) \
 Alexander Pan\*, Chan Jun Shern\*, Andy Zou\*, Nathaniel Li, Steven Basart, Thomas Woodside, Jonathan Ng, Hanlin Zhang, Scott Emmons, Dan Hendrycks \
-Preprint 2023 \
+ICML 2023, **Oral**  \
 [pdf](https://arxiv.org/pdf/2304.03279.pdf) / [code](https://github.com/aypan17/machiavelli) / [website](https://aypan17.github.io/machiavelli/)
 
 [The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models](https://arxiv.org/abs/2201.03544)  \
