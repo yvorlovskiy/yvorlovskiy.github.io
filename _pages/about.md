@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a first-year CS PhD student at Berkeley, where I am fortunate to be advised by [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/). I am interested in aligning adaptive ML systems, especially sequential decision-making agents. I am grateful to be supported by a [FLI PhD fellowship](https://futureoflife.org/about-us/our-people/fellowship-winners-2022/).
+Hello! I am a second-year CS PhD student at Berkeley, where I am fortunate to be advised by [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/). I am interested in developing safe ML systems, especially sequential decision-making agents. I am grateful to be supported by a [FLI PhD fellowship](https://futureoflife.org/about-us/our-people/fellowship-winners-2022/).
 
 I studied mathematics and computer science at Caltech, where I worked with [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) and [Yuanyuan Shi](https://yyshi.eng.ucsd.edu/).  
 
@@ -58,4 +58,4 @@ I was lucky to work on some interesting hackathon projects with [Yongkyun (Danie
 
 Contact
 ======
-Feel free to email me at [aypan (dot) 17 (at) berkeley (dot) edu](mailto:aypan.17@berkeley.edu).
+Feel free to email me at aypan (dot) 17 (at) berkeley (dot) edu.
