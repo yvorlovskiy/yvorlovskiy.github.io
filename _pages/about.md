@@ -53,7 +53,7 @@ Teaching Assistant: Winter 2020
 
 Projects
 ======
-I was lucky to work on some fun hackathon projects with [Yongkyun (Daniel) Lee](https://noninertialframe.com/about), [Evan Yeh](https://www.linkedin.com/in/evan-yeh/), and [Terry Kwon](https://terrykwon.com/).
+I worked on some fun hackathon projects with [Yongkyun (Daniel) Lee](https://noninertialframe.com/about), [Evan Yeh](https://www.linkedin.com/in/evan-yeh/), and [Terry Kwon](https://terrykwon.com/).
 
 [SimSquare](https://devpost.com/software/simsquare)
 
