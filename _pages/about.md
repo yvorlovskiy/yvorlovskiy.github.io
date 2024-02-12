@@ -16,6 +16,14 @@ See [here](https://drive.google.com/file/d/17jkbEmK-c69u8qqnYDzJNbo917Qwn6gg/vie
 
 Publications
 ======
+[Feedback Loops With Language Models Drive In-Context Reward Hacking](https://arxiv.org/abs/2402.06627) \ 
+Alexander Pan, Erik Jones, Meena Jagadeesan, Jacob Steinhardt \
+[pdf](https://arxiv.org/pdf/2402.06627.pdf) / [code](https://github.com/aypan17/llm-feedback)
+
+[Representation Engineering: A Top-Down Approach To AI Transparency](https://arxiv.org/abs/2310.01405) \
+Andy Zou, Long Phan, Sarah Chen, James Campbell, Phillip Guo, Richard Ren, Alexander Pan, Xuwang Yin, Mantas Mazeika, Ann-Kathrin Dombrowski, Shashwat Goel, Nathaniel Li, Michael J. Byun, Zifan Wang, Alex Mallen, Steven Basart, Sanmi Koyejo, Dawn Song, Matt Fredrikson, Zico Kolter, Dan Hendrycks \
+[pdf](https://arxiv.org/pdf/2310.01405.pdf) / [code](https://github.com/andyzoujm/representation-engineering) / [website](https://www.ai-transparency.org/)
+
 [Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark](https://arxiv.org/abs/2304.03279) \
 Alexander Pan\*, Chan Jun Shern\*, Andy Zou\*, Nathaniel Li, Steven Basart, Thomas Woodside, Jonathan Ng, Hanlin Zhang, Scott Emmons, Dan Hendrycks \
 ICML 2023, **Oral**  \
@@ -45,7 +53,9 @@ Teaching Assistant: Winter 2020
 
 Projects
 ======
-I was lucky to work on some interesting hackathon projects with [Yongkyun (Daniel) Lee](https://noninertialframe.com/about) and [Evan Yeh](https://www.linkedin.com/in/evan-yeh/).
+I was lucky to work on some fun hackathon projects with [Yongkyun (Daniel) Lee](https://noninertialframe.com/about), [Evan Yeh](https://www.linkedin.com/in/evan-yeh/), and [Terry Kwon](https://terrykwon.com/).
+
+[SimSquare](https://devpost.com/software/simsquare)
 
 [Pagechat](https://devpost.com/software/pagechat)  
 *Best social network hack - Stanford Hackathon 2021*  
