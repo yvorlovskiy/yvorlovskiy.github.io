@@ -15,18 +15,22 @@ See [here](https://drive.google.com/file/d/17jkbEmK-c69u8qqnYDzJNbo917Qwn6gg/vie
 
 Publications
 ======
-[Feedback Loops With Language Models Drive In-Context Reward Hacking](https://arxiv.org/abs/2402.06627) \
+[The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning](https://www.wmdp.ai/) \
+Nathaniel Li\*, Alexander Pan\*, ..., Alexandr Wang\*\*, Dan Hendrycks\*\* \
+[pdf](https://arxiv.org/pdf/2403.03218.pdf) / [code](https://github.com/centerforaisafety/wmdp) 
+
+[Feedback Loops With Language Models Drive In-Context Reward Hacking](https://arxiv.org/abs/2402.06627) \ 
 Alexander Pan, Erik Jones, Meena Jagadeesan, Jacob Steinhardt \
 [pdf](https://arxiv.org/pdf/2402.06627.pdf) / [code](https://github.com/aypan17/llm-feedback)
 
-[Representation Engineering: A Top-Down Approach To AI Transparency](https://arxiv.org/abs/2310.01405) \
+[Representation Engineering: A Top-Down Approach To AI Transparency](https://www.ai-transparency.org/) \
 Andy Zou, Long Phan, Sarah Chen, James Campbell, Phillip Guo, Richard Ren, Alexander Pan, Xuwang Yin, Mantas Mazeika, Ann-Kathrin Dombrowski, Shashwat Goel, Nathaniel Li, Michael J. Byun, Zifan Wang, Alex Mallen, Steven Basart, Sanmi Koyejo, Dawn Song, Matt Fredrikson, Zico Kolter, Dan Hendrycks \
-[pdf](https://arxiv.org/pdf/2310.01405.pdf) / [code](https://github.com/andyzoujm/representation-engineering) / [website](https://www.ai-transparency.org/)
+[pdf](https://arxiv.org/pdf/2310.01405.pdf) / [code](https://github.com/andyzoujm/representation-engineering) 
 
-[Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark](https://arxiv.org/abs/2304.03279) \
+[Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark](https://aypan17.github.io/machiavelli/) \
 Alexander Pan\*, Chan Jun Shern\*, Andy Zou\*, Nathaniel Li, Steven Basart, Thomas Woodside, Jonathan Ng, Hanlin Zhang, Scott Emmons, Dan Hendrycks \
 ICML 2023, **Oral**  \
-[pdf](https://arxiv.org/pdf/2304.03279.pdf) / [code](https://github.com/aypan17/machiavelli) / [website](https://aypan17.github.io/machiavelli/)
+[pdf](https://arxiv.org/pdf/2304.03279.pdf) / [code](https://github.com/aypan17/machiavelli) 
 
 [The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models](https://arxiv.org/abs/2201.03544)  \
 Alexander Pan, Kush Bhatia, Jacob Steinhardt  \
