@@ -20,7 +20,7 @@ Nathaniel Li\*, Alexander Pan\*, ..., Alexandr Wang\*\*, Dan Hendrycks\*\* \
 ICML 2024 \
 [pdf](https://arxiv.org/pdf/2403.03218.pdf) / [code](https://github.com/centerforaisafety/wmdp) 
 
-[Feedback Loops With Language Models Drive In-Context Reward Hacking](https://arxiv.org/abs/2402.06627) 
+[Feedback Loops With Language Models Drive In-Context Reward Hacking](https://arxiv.org/abs/2402.06627) \
 Alexander Pan, Erik Jones, Meena Jagadeesan, Jacob Steinhardt \
 ICML 2024 \
 [pdf](https://arxiv.org/pdf/2402.06627.pdf) / [code](https://github.com/aypan17/llm-feedback)
