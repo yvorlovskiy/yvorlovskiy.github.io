@@ -13,14 +13,16 @@ I studied mathematics and computer science at Caltech, where I worked with [Anim
 
 See [here](https://drive.google.com/file/d/17jkbEmK-c69u8qqnYDzJNbo917Qwn6gg/view?usp=sharing) for my CV. 
 
-Publications
+Publications and Preprints
 ======
 [The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning](https://www.wmdp.ai/) \
 Nathaniel Li\*, Alexander Pan\*, ..., Alexandr Wang\*\*, Dan Hendrycks\*\* \
+ICML 2024 \
 [pdf](https://arxiv.org/pdf/2403.03218.pdf) / [code](https://github.com/centerforaisafety/wmdp) 
 
 [Feedback Loops With Language Models Drive In-Context Reward Hacking](https://arxiv.org/abs/2402.06627) 
 Alexander Pan, Erik Jones, Meena Jagadeesan, Jacob Steinhardt \
+ICML 2024 \
 [pdf](https://arxiv.org/pdf/2402.06627.pdf) / [code](https://github.com/aypan17/llm-feedback)
 
 [Representation Engineering: A Top-Down Approach To AI Transparency](https://www.ai-transparency.org/) \
@@ -29,7 +31,7 @@ Andy Zou, Long Phan, Sarah Chen, James Campbell, Phillip Guo, Richard Ren, Alexa
 
 [Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark](https://aypan17.github.io/machiavelli/) \
 Alexander Pan\*, Chan Jun Shern\*, Andy Zou\*, Nathaniel Li, Steven Basart, Thomas Woodside, Jonathan Ng, Hanlin Zhang, Scott Emmons, Dan Hendrycks \
-ICML 2023, **Oral**  \
+**ICML 2023 Oral**  \
 [pdf](https://arxiv.org/pdf/2304.03279.pdf) / [code](https://github.com/aypan17/machiavelli) 
 
 [The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models](https://arxiv.org/abs/2201.03544)  \
