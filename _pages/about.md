@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a second-year CS PhD student at Berkeley, where I am fortunate to be advised by [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/). I am interested in developing safe ML systems, especially sequential decision-making agents. I am grateful to be supported by a [FLI PhD fellowship](https://futureoflife.org/about-us/our-people/fellowship-winners-2022/).
+Hello! I am a third-year CS PhD student at Berkeley, where I am fortunate to be advised by [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/). I am interested in developing safe ML systems, especially sequential decision-making agents. I am grateful to be supported by a [FLI PhD fellowship](https://futureoflife.org/about-us/our-people/fellowship-winners-2022/).
 
 I studied mathematics and computer science at Caltech, where I worked with [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) and [Yuanyuan Shi](https://yyshi.eng.ucsd.edu/).  
 
@@ -15,6 +15,10 @@ See [here](https://drive.google.com/file/d/17jkbEmK-c69u8qqnYDzJNbo917Qwn6gg/vie
 
 Publications and Preprints
 ======
+[LatentQA: Teaching LLMs to Decode Activations Into Natural Language](https://latentqa.github.io/) \
+Alexander Pan, Lijie Chen, Jacob Steinhardt \
+[pdf](https://arxiv.org/pdf/2412.08686.pdf) / [code](https://github.com/aypan17/latentqa)
+
 [The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning](https://www.wmdp.ai/) \
 Nathaniel Li\*, Alexander Pan\*, ..., Alexandr Wang\*\*, Dan Hendrycks\*\* \
 ICML 2024 \
