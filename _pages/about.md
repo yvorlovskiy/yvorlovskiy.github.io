@@ -7,74 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a third-year CS PhD student at Berkeley, where I am fortunate to be advised by [Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/). I am interested in developing safe ML systems, especially sequential decision-making agents. I am grateful to be supported by a [FLI PhD fellowship](https://futureoflife.org/about-us/our-people/fellowship-winners-2022/).
-
-I studied mathematics and computer science at Caltech, where I worked with [Anima Anandkumar](http://tensorlab.cms.caltech.edu/users/anima/) and [Yuanyuan Shi](https://yyshi.eng.ucsd.edu/).  
-
-See [here](https://drive.google.com/file/d/17jkbEmK-c69u8qqnYDzJNbo917Qwn6gg/view?usp=sharing) for my CV. 
+I'm currently a researcher at the [Center for AI Safety](https://safe.ai/), where I most recently worked on a benchmark measuring digital labor automation. Previously, I studied Electrical Engineering and Computer Science at UC Berkeley, where I co-led the [Berkeley AI Safety Initiative for Students (BASIS)](https://berkeleyaisafety.com/). I have also conducted research at [Berkeley SkyLab](https://sky.cs.berkeley.edu/) and [Mila](https://www.complexdatalab.com/poli-sci/).
 
 Publications and Preprints
 ======
-[LatentQA: Teaching LLMs to Decode Activations Into Natural Language](https://latentqa.github.io/) \
-Alexander Pan, Lijie Chen, Jacob Steinhardt \
-[pdf](https://arxiv.org/pdf/2412.08686.pdf) / [code](https://github.com/aypan17/latentqa)
+[Towards Diverse Language Model Generation with Stratification](https://arxiv.org/abs/2410.09038) \
+Justin Wong\*, **Yury Orlovskiy**\*, Alexander Shypula, Michael Luo, Sanjit Seshia, Joseph Gonzalez \
+*Preprint* \
+[arXiv](https://arxiv.org/abs/2410.09038)
 
-[The WMDP Benchmark: Measuring and Reducing Malicious Use With Unlearning](https://www.wmdp.ai/) \
-Nathaniel Li\*, Alexander Pan\*, ..., Alexandr Wang\*\*, Dan Hendrycks\*\* \
-ICML 2024 \
-[pdf](https://arxiv.org/pdf/2403.03218.pdf) / [code](https://github.com/centerforaisafety/wmdp) 
+[Web Retrieval Agents For Evidence-Based Misinformation Detection](https://arxiv.org/abs/2409.00009) \
+Jacob Junqi Tian, Peter Yu, **Yury Orlovskiy**, Zachary Yang, Mauricio Rivera, Tyler Vergho, Raghav Ravi, Jean-François Godbout, Kellin Pelrine \
+COLM 2024 \
+[arXiv](https://arxiv.org/abs/2409.00009)
 
-[Feedback Loops With Language Models Drive In-Context Reward Hacking](https://arxiv.org/abs/2402.06627) \
-Alexander Pan, Erik Jones, Meena Jagadeesan, Jacob Steinhardt \
-ICML 2024 \
-[pdf](https://arxiv.org/pdf/2402.06627.pdf) / [code](https://github.com/aypan17/llm-feedback)
-
-[Representation Engineering: A Top-Down Approach To AI Transparency](https://www.ai-transparency.org/) \
-Andy Zou, Long Phan, Sarah Chen, James Campbell, Phillip Guo, Richard Ren, Alexander Pan, Xuwang Yin, Mantas Mazeika, Ann-Kathrin Dombrowski, Shashwat Goel, Nathaniel Li, Michael J. Byun, Zifan Wang, Alex Mallen, Steven Basart, Sanmi Koyejo, Dawn Song, Matt Fredrikson, Zico Kolter, Dan Hendrycks \
-[pdf](https://arxiv.org/pdf/2310.01405.pdf) / [code](https://github.com/andyzoujm/representation-engineering) 
-
-[Do the Rewards Justify the Means? Measuring Trade-Offs Between Rewards and Ethical Behavior in the MACHIAVELLI Benchmark](https://aypan17.github.io/machiavelli/) \
-Alexander Pan\*, Chan Jun Shern\*, Andy Zou\*, Nathaniel Li, Steven Basart, Thomas Woodside, Jonathan Ng, Hanlin Zhang, Scott Emmons, Dan Hendrycks \
-**ICML 2023 Oral**  \
-[pdf](https://arxiv.org/pdf/2304.03279.pdf) / [code](https://github.com/aypan17/machiavelli) 
-
-[The Effects of Reward Misspecification: Mapping and Mitigating Misaligned Models](https://arxiv.org/abs/2201.03544)  \
-Alexander Pan, Kush Bhatia, Jacob Steinhardt  \
-ICLR 2022 \
-[pdf](https://arxiv.org/abs/2201.03544) / [code](https://github.com/aypan17/reward-misspecification)
-
-[Improving Robustness of RL for Power System Control with Adversarial Training](https://arxiv.org/abs/2110.08956)  \
-Alexander Pan, Yongkyun (Daniel) Lee, Huan Zhang, Yize Chen, Yuanyuan Shi    \
-ICML RL4RL Workshop 2021   \
-[pdf](https://arxiv.org/abs/2110.08956) / [code](https://github.com/aypan17/robust_pn)
-
-<!---
-Teaching
-======
-I enjoy teaching and am committed to promoting access to math and CS at all levels.
-
-[Caltech Y RISE](https://www.caltechy.org/rise-tutor)  
-Volunteer Tutor: 2018 - Present
-
-Caltech CS 21: *Complexity Theory*  
-Teaching Assistant: Winter 2020
--->
-
-Projects
-======
-I worked on some fun hackathon projects with [Yongkyun (Daniel) Lee](https://noninertialframe.com/about), [Evan Yeh](https://www.linkedin.com/in/evan-yeh/), and [Terry Kwon](https://terrykwon.com/).
-
-[SimSquare](https://devpost.com/software/simsquare)
-
-[Pagechat](https://devpost.com/software/pagechat)  
-*Best social network hack - Stanford Hackathon 2021*  
-[chrome extension](https://chrome.google.com/webstore/detail/pagenow/lplobiaakhgkjcldopgkbcibeilddbmc) / [code](https://github.com/yongkyunlee/pagechat-chrome)
-
-[homES ReInvented](https://devpost.com/software/homes-reinvented)  
-*Best use of ESRI technology - Caltech Hackathon 2020*  
-[code](https://github.com/yongkyunlee/hacktech2020)
+[Uncertainty Resolution in Misinformation Detection](https://arxiv.org/abs/2401.01197) \
+**Yury Orlovskiy**, Camille Thibault, Anne Imouza, Jean-François Godbout, Reihaneh Rabbany, Kellin Pelrine \
+EACL 2024 Workshop \
+[arXiv](https://arxiv.org/abs/2401.01197)
 
 
-Contact
-======
-Feel free to email me at aypan (dot) 17 (at) berkeley (dot) edu.

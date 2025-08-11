@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander Pan"
+title                    : "Yury Orlovskiy"
 title_separator          : "-"
-name                     : &name "Alexander Pan"
+name                     : &name "Yury Orlovskiy"
 description              : 
 url                      : https://aypan17.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexander Pan"
-  avatar           : "profile.jpg"
-  bio              : 
+  name             : "Yury Orlovskiy"
+  avatar           : "profile.png"
+  bio              :
   location         : 
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=PaltSA0AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Z_ca7-0AAAAJ&hl=en"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "aypan17"
+  github           : "yvorlovskiy"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "alexander-pan-0567a2102"
+  linkedin         : "yury-orlovskiy"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "aypan_17"
+  twitter          : "yvorlovskiy"
   vine             :
   weibo            :
   xing             :
