@@ -9,7 +9,7 @@ redirect_from:
 
 I'm currently a researcher at the [Center for AI Safety](https://safe.ai/), where I most recently worked on a benchmark measuring digital labor automation. Previously, I studied Electrical Engineering and Computer Science at UC Berkeley, where I co-led the [Berkeley AI Safety Initiative for Students (BASIS)](https://berkeleyaisafety.com/). I have also conducted research at [Berkeley SkyLab](https://sky.cs.berkeley.edu/) and [Mila](https://www.complexdatalab.com/poli-sci/).
 
-Publications and Preprints
+Publications
 ======
 [Towards Diverse Language Model Generation with Stratification](https://arxiv.org/abs/2410.09038) \
 Justin Wong\*, **Yury Orlovskiy**\*, Alexander Shypula, Michael Luo, Sanjit Seshia, Joseph Gonzalez \
