@@ -14,7 +14,7 @@ Publications
 [Remote Labor Index: Measuring AI Automation of Remote Work](https://www.remotelabor.ai/) \
 Mantas Mazeika\*, Alice Gatti\*, Cristina Menghini\*, Udari Madhushani Sehwag\*, Shivam Singhal\*, **Yury Orlovskiy**\*, Steven Basart, Manasi Sharma, Denis Peskoff, Elaine Lau, Jaehyuk Lim, Lachlan Carroll, Alice Blair, Vinaya Sivakumar, [33 more authors], Summer Yue\*\*, Bing Liu\*\*, Ernesto Hernandez\*\*, Dan Hendrycks\*\* \
 *2025* \
-[Website](https://www.remotelabor.ai/) / [Paper](https://www.remotelabor.ai/paper.pdf) / [WIRED](https://www.wired.com/story/ai-agents-are-terrible-freelance-workers/) / [Scale](https://scale.com/leaderboard/rli) / [Video](https://www.youtube.com/watch?v=2RW10HWYo5M)
+[Website](https://www.remotelabor.ai/) / [Paper](https://www.remotelabor.ai/paper.pdf) / [WIRED](https://www.wired.com/story/ai-agents-are-terrible-freelance-workers/) / [Scale AI Blog](https://scale.com/leaderboard/rli) / [YouTube](https://www.youtube.com/watch?v=2RW10HWYo5M)
 
 [Towards Diverse Language Model Generation with Stratification](https://arxiv.org/abs/2410.09038) \
 Justin Wong, **Yury Orlovskiy**, Alexander Shypula, Michael Luo, Sanjit Seshia, Joseph Gonzalez \
