@@ -5,17 +5,12 @@ layout: home
 author_profile: false
 ---
 
-## Publications
+## Selected Publications
 
 [AI Wellbeing: Measuring and Improving the Functional Pleasure and Pain of AIs](https://www.ai-wellbeing.org/) \
 Richard Ren, Kunyang Li, Mantas Mazeika, Wenyu Zhang, **Yury Orlovskiy**, Rishub Tamirisa, Wenjie Jacky Mo, Judy Nguyen, Long Phan, Steven Basart, Austin Meek, Aditya Mehta, Oliver Ingebretsen, Alice Blair, Brianna Adewinmbi, Alice Gatti, Adam Khoja, Jason Hausenloy, Devin Kim, Dan Hendrycks \
 *2026* \
 [Website](https://www.ai-wellbeing.org/) / [Paper](https://www.ai-wellbeing.org/paper.pdf) / [Code](https://github.com/centerforaisafety/wellbeing)
-
-[LLM Novice Uplift on Dual-Use, In Silico Biology Tasks](https://arxiv.org/abs/2602.23329) \
-Chen Bo Calvin Zhang, Christina Q Knight, Nicholas Kruus, Jason Hausenloy, Pedro Medeiros, Nathaniel Li, Aiden Kim, **Yury Orlovskiy**, Coleman Breen, Bryce Cai, Jasper Götting, Andrew Bo Liu, Samira Nedungadi, Paula Rodriguez, Yannis Yiming He, Mohamed Shaaban, Zifan Wang, Seth Donoughe, Julian Michael \
-*2026* \
-[arXiv](https://arxiv.org/abs/2602.23329)
 
 [Remote Labor Index: Measuring AI Automation of Remote Work](https://www.remotelabor.ai/) \
 Mantas Mazeika\*, Alice Gatti\*, Cristina Menghini\*, Udari Madhushani Sehwag\*, Shivam Singhal\*, **Yury Orlovskiy**\*, Steven Basart, Manasi Sharma, Denis Peskoff, Elaine Lau, Jaehyuk Lim, Lachlan Carroll, Alice Blair, Vinaya Sivakumar, [33 more authors], Summer Yue\*\*, Bing Liu\*\*, Ernesto Hernandez\*\*, Dan Hendrycks\*\* \
@@ -26,6 +21,13 @@ Mantas Mazeika\*, Alice Gatti\*, Cristina Menghini\*, Udari Madhushani Sehwag\*,
 Justin Wong, **Yury Orlovskiy**, Alexander Shypula, Michael Luo, Sanjit Seshia, Joseph Gonzalez \
 *NeurIPS 2025* \
 [arXiv](https://arxiv.org/abs/2410.09038)
+
+## Other Publications
+
+[LLM Novice Uplift on Dual-Use, In Silico Biology Tasks](https://arxiv.org/abs/2602.23329) \
+Chen Bo Calvin Zhang, Christina Q Knight, Nicholas Kruus, Jason Hausenloy, Pedro Medeiros, Nathaniel Li, Aiden Kim, **Yury Orlovskiy**, Coleman Breen, Bryce Cai, Jasper Götting, Andrew Bo Liu, Samira Nedungadi, Paula Rodriguez, Yannis Yiming He, Mohamed Shaaban, Zifan Wang, Seth Donoughe, Julian Michael \
+*2026* \
+[arXiv](https://arxiv.org/abs/2602.23329)
 
 [Web Retrieval Agents For Evidence-Based Misinformation Detection](https://arxiv.org/abs/2409.00009) \
 Jacob Junqi Tian, Peter Yu, **Yury Orlovskiy**, Zachary Yang, Mauricio Rivera, Tyler Vergho, Raghav Ravi, Jean-François Godbout, Kellin Pelrine \
