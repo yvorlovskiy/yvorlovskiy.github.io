@@ -1,7 +1,8 @@
 ---
 permalink: /publications/
 title: "Publications"
-author_profile: true
+layout: home
+author_profile: false
 ---
 
 [AI Wellbeing: Measuring and Improving the Functional Pleasure and Pain of AIs](https://www.ai-wellbeing.org/) \

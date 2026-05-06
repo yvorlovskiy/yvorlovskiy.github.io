@@ -1,0 +1,48 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<div id="main" role="main" class="home-main">
+  <article class="home" itemscope itemtype="http://schema.org/Person">
+    <header class="home__header">
+      {% if site.author.avatar %}
+        <img class="home__avatar" src="{{ base_path }}/images/{{ site.author.avatar }}" alt="{{ site.author.name }}" />
+      {% endif %}
+      <h1 class="home__name">{{ site.author.name }}</h1>
+      <nav class="home__nav">
+        <a href="{{ base_path }}/">about</a>
+        <span class="sep">/</span>
+        <a href="{{ base_path }}/publications/">publications</a>
+        {% if site.author.twitter %}
+          <span class="sep">/</span>
+          <a href="https://twitter.com/{{ site.author.twitter }}">x</a>
+        {% endif %}
+        {% if site.author.github %}
+          <span class="sep">/</span>
+          <a href="https://github.com/{{ site.author.github }}">github</a>
+        {% endif %}
+        {% if site.author.googlescholar %}
+          <span class="sep">/</span>
+          <a href="{{ site.author.googlescholar }}">scholar</a>
+        {% endif %}
+        {% if site.author.linkedin %}
+          <span class="sep">/</span>
+          <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}">linkedin</a>
+        {% endif %}
+      </nav>
+      <div class="home__ornament" aria-hidden="true">
+        {% include ornament.svg %}
+      </div>
+    </header>
+
+    {% if page.title and page.url != "/" %}
+      <h2 class="home__page-title">{{ page.title }}</h2>
+    {% endif %}
+
+    <section class="home__content">
+      {{ content }}
+    </section>
+  </article>
+</div>
