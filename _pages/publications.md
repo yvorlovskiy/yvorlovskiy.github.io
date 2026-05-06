@@ -12,6 +12,11 @@ Richard Ren, Kunyang Li, Mantas Mazeika, Wenyu Zhang, **Yury Orlovskiy**, Rishub
 *2026* \
 [Website](https://www.ai-wellbeing.org/) / [Paper](https://www.ai-wellbeing.org/paper.pdf) / [Code](https://github.com/centerforaisafety/wellbeing)
 
+[LLM Novice Uplift on Dual-Use, In Silico Biology Tasks](https://arxiv.org/abs/2602.23329) \
+Chen Bo Calvin Zhang, Christina Q Knight, Nicholas Kruus, Jason Hausenloy, Pedro Medeiros, Nathaniel Li, Aiden Kim, **Yury Orlovskiy**, Coleman Breen, Bryce Cai, Jasper Götting, Andrew Bo Liu, Samira Nedungadi, Paula Rodriguez, Yannis Yiming He, Mohamed Shaaban, Zifan Wang, Seth Donoughe, Julian Michael \
+*2026* \
+[arXiv](https://arxiv.org/abs/2602.23329)
+
 [Remote Labor Index: Measuring AI Automation of Remote Work](https://www.remotelabor.ai/) \
 Mantas Mazeika\*, Alice Gatti\*, Cristina Menghini\*, Udari Madhushani Sehwag\*, Shivam Singhal\*, **Yury Orlovskiy**\*, Steven Basart, Manasi Sharma, Denis Peskoff, Elaine Lau, Jaehyuk Lim, Lachlan Carroll, Alice Blair, Vinaya Sivakumar, [33 more authors], Summer Yue\*\*, Bing Liu\*\*, Ernesto Hernandez\*\*, Dan Hendrycks\*\* \
 *2025* \
