@@ -125,6 +125,19 @@ body:has(.home-main) .page__title { display: none !important; }
 .home__content strong { font-weight: 600; }
 .home__content em { color: var(--muted); }
 
+.home__content h2 {
+  font-family: 'EB Garamond', serif;
+  font-weight: 500;
+  font-size: 1.2rem;
+  letter-spacing: 0.04em;
+  text-transform: lowercase;
+  color: var(--muted);
+  margin: 2.4rem 0 1.1rem;
+  padding-bottom: 0.35rem;
+  border-bottom: 1px solid var(--rule);
+}
+.home__content h2:first-child { margin-top: 0; }
+
 /* Publications page: tighter rhythm between entries */
 .home__content > p + p {
   padding-top: 0.4rem;

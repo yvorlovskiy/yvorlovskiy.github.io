@@ -1,9 +1,11 @@
 ---
 permalink: /publications/
-title: "Publications"
+title: "Publications & Talks"
 layout: home
 author_profile: false
 ---
+
+## Publications
 
 [AI Wellbeing: Measuring and Improving the Functional Pleasure and Pain of AIs](https://www.ai-wellbeing.org/) \
 Richard Ren, Kunyang Li, Mantas Mazeika, Wenyu Zhang, **Yury Orlovskiy**, Rishub Tamirisa, Wenjie Jacky Mo, Judy Nguyen, Long Phan, Steven Basart, Austin Meek, Aditya Mehta, Oliver Ingebretsen, Alice Blair, Brianna Adewinmbi, Alice Gatti, Adam Khoja, Jason Hausenloy, Devin Kim, Dan Hendrycks \
@@ -29,3 +31,11 @@ COLM 2024 \
 **Yury Orlovskiy**, Camille Thibault, Anne Imouza, Jean-François Godbout, Reihaneh Rabbany, Kellin Pelrine \
 EACL 2024 Workshop \
 [arXiv](https://arxiv.org/abs/2401.01197)
+
+## Talks
+
+Remote Labor Automation \
+Mox, San Francisco, December 2025
+
+Remote Labor Automation \
+Constellation, November 2025
