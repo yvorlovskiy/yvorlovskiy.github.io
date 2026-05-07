@@ -15,3 +15,7 @@ Previously, I was a research engineer at the [Center for AI Safety](https://safe
 You can find my [publications and talks here](/publications/).
 
 If you're building in AI safety or just want to chat, please reach out — yury@lionheart.vc.
+
+<div class="cta">
+  <button class="cal-button" data-cal-namespace="30min" data-cal-link="yury-orlovskiy-422kxq/30min" data-cal-config='{"layout":"month_view"}'>Book a meeting</button>
+</div>
