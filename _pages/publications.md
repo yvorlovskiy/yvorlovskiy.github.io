@@ -10,7 +10,7 @@ author_profile: false
 [AI Wellbeing: Measuring and Improving the Functional Pleasure and Pain of AIs](https://www.ai-wellbeing.org/) \
 Richard Ren, Kunyang Li, Mantas Mazeika, Wenyu Zhang, **Yury Orlovskiy**, Rishub Tamirisa, Wenjie Jacky Mo, Judy Nguyen, Long Phan, Steven Basart, Austin Meek, Aditya Mehta, Oliver Ingebretsen, Alice Blair, Brianna Adewinmbi, Alice Gatti, Adam Khoja, Jason Hausenloy, Devin Kim, Dan Hendrycks \
 *2026* \
-[Website](https://www.ai-wellbeing.org/) / [Paper](https://www.ai-wellbeing.org/paper.pdf) / [Code](https://github.com/centerforaisafety/wellbeing)
+[Website](https://www.ai-wellbeing.org/) / [Paper](https://www.ai-wellbeing.org/paper.pdf) / [Code](https://github.com/centerforaisafety/wellbeing) / [Bloomberg](https://www.bloomberg.com/opinion/articles/2026-05-10/claude-and-chatgpt-aren-t-conscious-but-the-idea-is-great-for-ai-companies) / [Futurism](https://futurism.com/artificial-intelligence/sophisticated-ai-suffering)
 
 [Remote Labor Index: Measuring AI Automation of Remote Work](https://www.remotelabor.ai/) \
 Mantas Mazeika\*, Alice Gatti\*, Cristina Menghini\*, Udari Madhushani Sehwag\*, Shivam Singhal\*, **Yury Orlovskiy**\*, Steven Basart, Manasi Sharma, Denis Peskoff, Elaine Lau, Jaehyuk Lim, Lachlan Carroll, Alice Blair, Vinaya Sivakumar, [33 more authors], Summer Yue\*\*, Bing Liu\*\*, Ernesto Hernandez\*\*, Dan Hendrycks\*\* \
